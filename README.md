@@ -8,3 +8,4 @@ Link for the project structure: https://www.figma.com/file/D5yj79hyVEtwH9iJtpzob
 
 Video Link showing the entire working of the app: https://www.youtube.com/watch?v=B2Izl-JSvlU
 
+🛒
